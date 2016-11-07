@@ -69,6 +69,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="App_Config\Include\zzz\Sitecore.Support.443745.config" />
+    <Content Include="App_Data\setup.sql" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="App_Config\Include\Sitecore.Abstract.DataProviders.config" />
